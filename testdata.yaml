@@ -1,0 +1,10 @@
+users:
+    - {name: user1, paycheck: 100, date_joined: 2014-01-15}
+    - {name: user2, paycheck: 120, date_joined: 2014-10-08}
+    - {name: user3, paycheck: 85, date_joined: 2015-02-11}
+
+
+rooms:
+    - {department: IT, spots: 10}
+    - {department: Accounting, spots: 2}
+
